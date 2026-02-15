@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KIBIDANGO",
+  "base_artist": "@onefive",
+  "createdAt": "2026-02-15T14:17:32.288582Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KIBIDANGO",
+      "artist": "@onefive",
+      "has_synced": false,
+      "path": "select/pl_01_KIBIDANGO_@onefive.txt"
+    }
+  ]
+}
